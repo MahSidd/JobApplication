@@ -1,0 +1,39 @@
+.Dashboard-nav{
+    background-color: black;
+    padding: 20px;
+    font-size: 2rem;
+    color: white;
+
+}
+.Dashboard-creator {
+    
+   
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .Dashboard-heading {
+    flex: 1;
+  }
+  
+  .Dashboard-heading h1 {
+    margin: 0;
+    font-size: 2rem;
+  }
+  
+  .Dashboard-button {
+    flex: 1;
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  .Dashboard-button .btn {
+    font-size: 1rem;
+    padding: 10px 20px;
+  }
+  .Dashboard-table{
+    margin-top: 20px;
+  }
+  
